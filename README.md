@@ -1,7 +1,7 @@
 ### Postdoctoral researcher at Uppsala University
 #### Hematological malignancies and auto-immune diseases.
 #### Bioinformatics 
-#### Analysis of scRNA-seq etc.
+#### Analysis of scRNA-seq data etc.
 
 <!--
 **gusarv/gusarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
