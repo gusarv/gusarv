@@ -1,7 +1,5 @@
 ### Postdoctoral researcher at Uppsala University
-#### Studying hPostdoctoral researcher at Uppsala University
-Hematological malignancies and auto-immune diseases
-scRNA-seq etc.ematological malignancies and auto-immune diseases.
+#### Studying hematological malignancies and auto-immune diseases
 #### Bioinformatics 
 #### Analysis of scRNA-seq data etc.
 
